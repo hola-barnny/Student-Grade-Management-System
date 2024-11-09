@@ -20,3 +20,14 @@ This is a Python-based program to manage and calculate grades for third-year Phy
 This project was developed in PyCharm and VS Code, an integrated development environment (IDE) that is particularly well-suited for Python programming. PyCharm and VS Code provided a number of features that were essential in managing and debugging the code for the Student Grade Management System.
 ## Contribution
 Each team member is expected to modularize their contributions, commit, and document changes clearly.
+
+## Contributors
+Banire Olaitan Olubusola(56712):
+**Team lead**
+**Responsible for writing the code on the students.py file**
+**Prepared the readme file**
+**Organized meetings**
+
+Temitope Ayomide Daniel(68627)
+** Responsible for writing the code that committing the 
+
