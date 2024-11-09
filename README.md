@@ -38,7 +38,7 @@ Olajide Fiwajoluwa Grace(Trainee ID:50826)
 - **She worked on the main_manager.py file. This file is the main entry point to interact with users**
 
 Olayinka Soretire(Trainee ID: 72345)
-- ** He worked on the 
+- **He worked on the utils.py file which helps to display the welcome message. This helps keep main_manager.py focused on the core program logic.**
 
 
 
