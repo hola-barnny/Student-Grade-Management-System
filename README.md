@@ -32,7 +32,13 @@ Temitope Ayomide Daniel(Trainee ID:68627)
 - **Responsible for writing and committing the code on the courses.py file to github**
 
 Abubakar Sulyman(Trainee ID: 20207)
-- **Responsible for
+- **He worked on the grades.py file. he is responsible for writing the code that manages grade and other related calculations**
+
+Olajide Fiwajoluwa Grace(Trainee ID:50826)
+- **She worked on the main_manager.py file. This file is the main entry point to interact with users**
+
+Olayinka Soretire(Trainee ID: 72345)
+- ** He worked on the 
 
 
 
