@@ -23,11 +23,13 @@ Each team member is expected to modularize their contributions, commit, and docu
 
 ## Contributors
 Banire Olaitan Olubusola(56712):
-**Team lead**
-**Responsible for writing the code on the students.py file**
-**Prepared the readme file**
-**Organized meetings**
+- **Team lead**
+- **Responsible for writing the code on the students.py file**
+- **Prepared the readme file**
+- **Organized meetings**
 
 Temitope Ayomide Daniel(68627)
-** Responsible for writing the code that committing the 
+- **Responsible for writing and committing the code on the courses.py file to github**
+
+
 
