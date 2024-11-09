@@ -22,14 +22,17 @@ This project was developed in PyCharm and VS Code, an integrated development env
 Each team member is expected to modularize their contributions, commit, and document changes clearly.
 
 ## Contributors
-Banire Olaitan Olubusola(56712):
+Banire Olaitan Olubusola(Trainee ID:56712):
 - **Team lead**
 - **Responsible for writing the code on the students.py file**
 - **Prepared the readme file**
 - **Organized meetings**
 
-Temitope Ayomide Daniel(68627)
+Temitope Ayomide Daniel(Trainee ID:68627)
 - **Responsible for writing and committing the code on the courses.py file to github**
+
+Abubakar Sulyman(Trainee ID: 20207)
+- **Responsible for
 
 
 
